@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm SK 👋
+# Hi, I'm Sumedh 👋
 
 **Data Scientist · PGDBA @ IIM Calcutta · IIT Kharagpur · ISI Kolkata**
 
@@ -17,20 +17,6 @@ I'm a graduate student in the **PGDBA program** — a joint initiative of IIM Ca
 
 My work focuses on building rigorous, reproducible data science pipelines: from exploratory analysis to production-ready scripts. I care deeply about the *why* behind a model, not just the metric.
 
-- 🔭 Currently working on: **[Your active project — e.g., quant signal research / NLP pipeline]**
-- 🌱 Learning: **[e.g., MLOps · Transformer fine-tuning · Causal Inference]**
-- 💬 Ask me about: **[Your strongest area — e.g., time series / bioinformatics / sports analytics]**
-
----
-## 📌 Featured Projects
-
-<!-- Fill in 2–4 of your best repos. One sharp sentence per project: WHAT + WHY it's interesting. Curate ruthlessly — less is more. -->
-
-| Project | What & Why | Stack |
-|---------|------------|-------|
-| [**project-name-1**](https://github.com/YOUR-USERNAME/repo-name) | One sharp sentence. What problem? What result? | `Python` `scikit-learn` `pandas` |
-| [**project-name-2**](https://github.com/YOUR-USERNAME/repo-name) | One sharp sentence. What problem? What result? | `SQL` `MongoDB` `Streamlit` |
-| [**project-name-3**](https://github.com/YOUR-USERNAME/repo-name) | One sharp sentence. What problem? What result? | `R` `AMPL` `statsmodels` |
 
 ---
 ## 🛠️ Tech Stack
@@ -66,23 +52,3 @@ My work focuses on building rigorous, reproducible data science pipelines: from 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vybhav72954&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vybhav72954&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-<sub>Built with Git · Maintained with discipline · Updated with intent</sub>
-</div>
